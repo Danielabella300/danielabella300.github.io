@@ -1,0 +1,29 @@
+﻿p.ex1
+{
+    font-size:15px;
+    margin-top:-20px;
+}
+
+p.ex2
+{
+    font-size:15px;
+    margin-top:0;
+    font-style:italic;
+}
+
+p.ex3 {
+    font-size: 15px;
+    margin-top: -20px;
+    font-style: italic;
+}
+
+h4
+{
+    font-weight:bold;
+    text-decoration:underline;
+}
+
+.gsu {
+    color: red;
+    font-weight: bold;
+}
